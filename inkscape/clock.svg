@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="clock.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73584456"
+     inkscape:cx="284.02738"
+     inkscape:cy="579.60611"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2104"
+       inkscape:swatch="solid"
+       gradientTransform="scale(0.26458333)">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop2102" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#3f4b87;stroke-width:7;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
+       id="path2834-7"
+       cx="103.91405"
+       cy="101.03753"
+       rx="54.114403"
+       ry="55.193096" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.078632"
+       id="rect13878-1"
+       width="5.2916665"
+       height="50.270832"
+       x="124.40214"
+       y="66.740654"
+       ry="1.9334935"
+       inkscape:transform-center-x="6.1113079"
+       inkscape:transform-center-y="21.787764"
+       transform="rotate(15.346509)" />
+    <rect
+       style="fill:#4e1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0701312"
+       id="rect13878-4-1"
+       width="5.2916665"
+       height="39.6875"
+       x="-147.02318"
+       y="-7.2507339"
+       ry="2.0891151"
+       inkscape:transform-center-y="-13.212212"
+       inkscape:transform-center-x="-11.54416"
+       transform="rotate(-138.02442)" />
+  </g>
+</svg>
