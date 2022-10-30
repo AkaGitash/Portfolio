@@ -1,0 +1,101 @@
+body{
+    
+    text-align: center;
+    background-color:rgb(6, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-weight:lighter;
+ }
+ 
+ a{
+     color:whitesmoke;
+     text-decoration: none;
+     
+ }
+ 
+ .header-link1{
+     margin-left: 850px;
+     padding-right:35px;
+ }
+ .header-link2{
+     padding: 30px;
+ }
+ .header-link3{
+     padding:30px
+ }
+ .header-link4{
+     
+     padding-left:30px;
+     
+ }
+ 
+ .herelink{
+     color : #5897fb;
+ }
+ 
+ .contactmelink{
+     color : #5897fb;
+ }
+ 
+ .nav-bar {
+     background-color:black;
+     position:relative;
+ }
+ 
+ .side-bar{
+        position: fixed;
+        padding-top:20px;
+        padding-left:10px;
+        width:1px;
+        height:100%;
+        margin-top:450px;
+        z-index: 1;
+        top:0;
+        display: block;
+ }
+ 
+ #github{
+     padding-bottom:30px;
+     box-sizing: border-box;
+     font-size: 20px;
+ }
+ 
+ #quora{
+     box-sizing: border-box;
+     font-size: 20px;
+     color:red;
+     padding-bottom: 30px;
+ }
+ 
+ #instagram{
+     box-sizing: border-box;
+     padding-top:10px;
+     font-size: 20px;
+     color:purple;
+     padding-bottom: 30px;
+ }
+ 
+ #stackoverflow{
+     box-sizing: border-box;
+     font-size: 20px;
+     color:orange;
+     padding-bottom: 30px;
+ }
+ 
+ #facebook{
+     box-sizing: border-box;  
+     font-size: 20px;
+     color:#5897fb; 
+ }
+ 
+ 
+ .middle-container  {
+     position:absolute;
+ }
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
